@@ -391,8 +391,7 @@
             </section>
            <!-- ============= accordion_area_top end ============== -->
            
-           <!-- ============= footer_area start ============== -->
-            <footer class="footer_area">
+         <footer class="footer_area">
                
                 <section class="footer_top section_padding_100">
                     <div class="container">
@@ -403,15 +402,16 @@
                                     <ul>
                                         <li>
                                             <h4>Address:</h4> 
-                                            <div class="widget_contact_detail">614, Shekhar Central<br>Palasia Square<br>Indore MP-452001</div>
+                                            <div class="widget_contact_detail">Indore MP-452001</div>
                                         </li>
                                         <li>
                                             <h4>Phone:</h4> 
-                                            <div class="widget_contact_detail"><i class="fa fa-phone"></i>0731-4044911<br><i class="fa fa-mobile"></i>+91-7000360386<br><i class="fa fa-mobile"></i>+91-7798983988</div>
+                                            <div class="widget_contact_detail"><i class="fa fa-phone"></i>0731-xxxxxxx<br><i class="fa fa-mobile"></i>+91-8xxxxxxxxxx<br><i class="fa fa-mobile"></i>+91-8xxxxxxxxxx</div>
+                                        </li>
                                         </li>
                                         <li>
                                             <h4>Email:</h4> 
-                                            <div class="widget_contact_detail"><i class="fa fa-envelope"></i>info@singlestepsolutions.com<br><i class="fa fa-envelope"></i>aditya@singlestepsolutions.com<br><i class="fa fa-envelope"></i>career@singlestepsolutions.com</div>
+                                            <div class="widget_contact_detail"><i class="fa fa-envelope"></i>info@singlestaps.com<br><i class="fa fa-envelope"></i>sales@singlestaps.com<br><i class="fa fa-envelope"></i>career@singlestaps.com</div>
                                         </li>
                                     </ul>
                                 </div>
@@ -430,17 +430,17 @@
                             </div> <!-- col-md-2 end -->
                             <div class="col-lg-2 col-md-2 col-sm-6 col-xs-12">
                                 <div class="widget_footer_social">
-									<h2 class="widget_title">Follow us</h2>
-                                        <a href="https://www.facebook.com/singlestepsolutions" target="_blank"> <i class="fa fa-facebook"></i> </a>
-                                        <a href="https://twitter.com/singlestepsol" target="_blank"> <i class="fa fa-twitter"></i> </a>
-                                        <a href="https://www.linkedin.com/company/single-step-solutions?trk=biz-companies-cym" target="_blank"> <i class="fa fa-linkedin"></i> </a>
-                                    </div>	
-								</div>
-								
-								<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">								
+                                    <h2 class="widget_title">Follow us</h2>
+                                        <a href="https://www.facebook.com" target="_blank"> <i class="fa fa-facebook"></i> </a>
+                                        <a href="https://twitter.com" target="_blank"> <i class="fa fa-twitter"></i> </a>
+                                        <a href="https://www.linkedin.com/" target="_blank"> <i class="fa fa-linkedin"></i> </a>
+                                    </div>  
+                                </div>
+                                
+                                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">                              
                                     <div class="widget_footer_social">
-									<h2 class="widget_title">Connect With Us</h2>
-                                      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsinglestepsolutions&tabs=timeline&width=340&height=380px&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="380px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                                    <h2 class="widget_title">Connect With Us</h2>
+                                    
                                     </div>
                             </div> <!-- col-md-3 end -->
                         </div>
@@ -452,12 +452,12 @@
                         <div class="row">
                             <div class="col-sm-6 col-xs-12">
                                 <div class="footer_bottom_left">
-                                    <p> &copy; 2016, All Rights Reserved. </p>
+                                    <p> &copy; 2017, All Rights Reserved. </p>
                                 </div>
                             </div> <!-- col-sm-6 end -->
                             <div class="col-sm-6 col-xs-12">
                                 <div class="footer_bottom_right">
-                                    <p> Powered by <a href="http://irajweb.in" target="_blank">Iraj Web</a></p>
+                                    <p> Powered by <a href="http://singleStaps.com" target="_blank">singleStaps</a></p>
                                 </div>
                             </div> <!-- col-sm-6 end -->
                         </div>
@@ -495,14 +495,12 @@
         <!-- instafeed -->
         <script src="js/instafeed.min.js"></script>
         
-        <!-- parallax -->
-        <script src="js/jquery-parallax.html"></script>
-        
         <!-- bootstrap -->
         <script src="js/bootstrap.min.js"></script>
         
         <!-- custom -->
         <script src="js/main.js"></script>
+
         
     </body>
 
