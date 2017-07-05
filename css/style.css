@@ -3332,3 +3332,32 @@ body.preloader_active {
     }
 	
 }
+
+
+body{
+background:#fffff !important;
+}
+
+.header_top_wrapper {
+    background: #205081;
+    position: relative;
+    z-index: 9;
+    border-radius: 0 0 0 20px;
+}
+.header_top_wrapper:before {
+    content: "";
+    height: 100%;
+    left: 100%;
+    position: absolute;
+    top: 0;
+    width: 10000px;
+    background: #205081 !important ;
+}
+.header_area {
+    background-color: #ffffff !important;
+    position: relative;
+}
+.logo {
+    font-size: 42px;
+    font-family: fantasy;
+}

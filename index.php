@@ -84,7 +84,7 @@
                     <div class="row">
                         <div class="col-md-3 col-sm-2">
                             <div class="logo">
-                                <a href="index.php"><img src="img/logo.png" alt="logo"></a>
+                               SingleStaps</a>
                             </div>
                         </div> <!-- col-md-3 end -->
                         
